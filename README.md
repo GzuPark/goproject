@@ -19,6 +19,15 @@
 
 </details>
 
+### 1 단계 - 가볍게 Go 입문하기
+<details>
+<summary>Chapter 03 - Hello Go World</summary>
+
++ [Summary](./ch03/README.md)
++ [Quiz](./ch03/quiz/README.md)
+
+</details>
+
 ## Reference
 - [GitHub](https://github.com/tuckersGo/musthaveGo)
 - [YouTube](https://www.youtube.com/c/TuckerProgramming)
