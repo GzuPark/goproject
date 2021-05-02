@@ -21,7 +21,7 @@
 
 </details>
 
-2 | goproject 폴더 아래 hello2 폴더를 만들고 "안녕! 고 언어"라고 출력하는 hello2.go 예제를 작성하고 실행해보세요.
+2 | goproject 폴더 아래 hello2 폴더를 만들고 "안녕! 고 언어"라고 출력하는 `hello2.go` 예제를 작성하고 실행해보세요.
 :--:|:--
 
 <details>
