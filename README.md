@@ -44,6 +44,22 @@
 
 </details>
 
+<details>
+<summary>Chapter 05 - fmt 패키지를 이용한 텍스트 입출력</summary>
+
++ [fmt 패키지](./ch05/ex05.01/ex05.01.go)
++ [최소 출력 너비 지정](./ch05/ex05.02/ex05.02.go)
++ [실수 소수점 이하 자릿수](./ch05/ex05.03/ex05.03.go)
++ [특수 문자](./ch05/ex05.04/ex05.04.go)
++ [Scan()](./ch05/ex05.05/ex05.05.go)
++ [Scanf()](./ch05/ex05.06/ex05.06.go)
++ [Scanln()](./ch05/ex05.07/ex05.07.go)
++ [키보드 입력과 Scan() 함수의 동작 원리](./ch05/ex05.08/ex05.08.go)
++ [Summary](./ch05/README.md)
++ [Quiz](./ch05/quiz/README.md)
+
+</details>
+
 ## Reference
 - [GitHub](https://github.com/tuckersGo/musthaveGo)
 - [YouTube](https://www.youtube.com/c/TuckerProgramming)
