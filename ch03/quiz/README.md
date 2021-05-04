@@ -38,6 +38,6 @@ func main() {
 }
 ```
 
-[`hello2.go`](../hello2/hello2.go)
+[`hello2.go`](./hello2/hello2.go)
 
 </details>
