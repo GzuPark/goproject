@@ -60,6 +60,25 @@
 
 </details>
 
+<details>
+<summary>Chapter 06 - 연산자</summary>
+
++ [연산의 결과 타입](./ch06/ex06.01/ex06.01.go)
++ [비트 연산자](./ch06/ex06.02/ex06.02.go)
++ [왼쪽 시프트 연산자](./ch06/ex06.03/ex06.03.go)
++ [오른쪽 시프트 연산자](./ch06/ex06.04/ex06.04.go)
++ [정수 오버플로 & 언더플로](./ch06/ex06.05/ex06.05.go)
++ [float 비교 연산](./ch06/ex06.06/ex06.06.go)
++ [작은 오차 무시하기](./ch06/ex06.07/ex06.07.go)
++ [오차를 없애는 더 나은 방법](./ch06/ex06.08/ex06.08.go)
++ [정밀도를 직접 조정하는 방법](./ch06/ex06.09/ex06.09.go)
++ [복수 대입 연산자](./ch06/ex06.10/ex06.10.go)
++ [연산자 우선순위](./ch06/ex06.11/ex06.11.go)
++ [Summary](./ch06/README.md)
++ [Quiz](./ch06/quiz/README.md)
+
+</details>
+
 ## Reference
 - [GitHub](https://github.com/tuckersGo/musthaveGo)
 - [YouTube](https://www.youtube.com/c/TuckerProgramming)
