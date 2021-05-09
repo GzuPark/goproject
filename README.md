@@ -93,6 +93,18 @@
 
 </details>
 
+<details>
+<summary>Chapter 08 - 상수</summary>
+
++ [상수 선언](./ch08/ex08.01/ex08.01.go)
++ [변하면 안 되는 값에 상수 사용하기](./ch08/ex08.02/ex08.02.go)
++ [코드값으로 사용하기](./ch08/ex08.03/ex08.03.go)
++ [타입 없는 상수](./ch08/ex08.04/ex08.04.go)
++ [Summary](./ch08/README.md)
++ [Quiz](./ch08/quiz/README.md)
+
+</details>
+
 ## Reference
 - [GitHub](https://github.com/tuckersGo/musthaveGo)
 - [YouTube](https://www.youtube.com/c/TuckerProgramming)
