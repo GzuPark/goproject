@@ -1,8 +1,6 @@
 # Tucker의 GO 언어 프로그래밍
 
-## Contents
-
-### 0 단계 - Go 언어를 배우기 전에
+## 0 단계 - Go 언어를 배우기 전에
 <details>
 <summary>Chapter 01 - 컴퓨터 원리</summary>
 
@@ -19,7 +17,7 @@
 
 </details>
 
-### 1 단계 - 가볍게 Go 입문하기
+## 1 단계 - 가볍게 Go 입문하기
 <details>
 <summary>Chapter 03 - Hello Go World</summary>
 
@@ -118,6 +116,26 @@
 + [Quiz](./ch09/quiz/README.md)
 
 </details>
+
+<details>
+<summary>Chapter 10 - switch문</summary>
+
++ [switch문 동작 원리](./ch10/ex10.01/ex10.01.go)
++ [switch문을 언제 쓰는가? - if](./ch10/ex10.02/ex10.02.go)
++ [switch문을 언제 쓰는가? - switch](./ch10/ex10.03/ex10.03.go)
++ [한 번에 여러 값 비교](./ch10/ex10.04/ex10.04.go)
++ [조건문 비교](./ch10/ex10.05/ex10.05.go)
++ [switch 초기문](./ch10/ex10.06/ex10.06.go)
++ [switch 초기문 - true](./ch10/ex10.07/ex10.07.go)
++ [const 열거값과 switch](./ch10/ex10.08/ex10.08.go)
++ [break 키워드](./ch10/ex10.09/ex10.09.go)
++ [fallthrough 키워드](./ch10/ex10.10/ex10.10.go)
++ [Summary](./ch10/README.md)
++ [Quiz](./ch10/quiz/README.md)
+
+</details>
+
+---
 
 ## Reference
 - [GitHub](https://github.com/tuckersGo/musthaveGo)
