@@ -166,6 +166,22 @@
 
 </details>
 
+<details>
+<summary>Chapter 13 - 구조체</summary>
+
++ [선언 및 기본 사용](./ch13/ex13.01/ex13.01.go)
++ [내장 타입처럼 포함하는 방식](./ch13/ex13.02/ex13.02.go)
++ [포함된 필드 방식](./ch13/ex13.03/ex13.03.go)
++ [필드 중복 해결](./ch13/ex13.04/ex13.04.go)
++ [구조체 값 복사](./ch13/ex13.05/ex13.05.go)
++ [필드 배치 순서에 따른 구조체 크기 변화](./ch13/ex13.06/ex13.06.go)
++ [메모리 패딩을 고려한 필드 배치 방법](./ch13/ex13.07/ex13.07.go)
++ [메모리 패딩을 고려한 필드 배치 방법 - 조정](./ch13/ex13.08/ex13.08.go)
++ [Summary](./ch13/README.md)
++ [Quiz](./ch13/quiz/README.md)
+
+</details>
+
 ---
 
 ## Reference
