@@ -4,16 +4,16 @@
 <details>
 <summary>Chapter 01 - 컴퓨터 원리</summary>
 
-+ [Summary](./ch01/README.md)
-+ [Quiz](./ch01/quiz/README.md)
++ [Summary](./ch01#readme)
++ [Quiz](./ch01/quiz#readme)
 
 </details>
 
 <details>
 <summary>Chapter 02 - 프로그래밍 언어</summary>
 
-+ [Summary](./ch02/README.md)
-+ [Quiz](./ch02/quiz/README.md)
++ [Summary](./ch02#readme)
++ [Quiz](./ch02/quiz#readme)
 
 </details>
 
@@ -22,8 +22,8 @@
 <summary>Chapter 03 - Hello Go World</summary>
 
 + [Hello Go world 코드 뜯어보기](./ch03/ex03.01/ex03.01.go)
-+ [Summary](./ch03/README.md)
-+ [Quiz](./ch03/quiz/README.md)
++ [Summary](./ch03#readme)
++ [Quiz](./ch03/quiz#readme)
 
 </details>
 
@@ -37,8 +37,8 @@
 + [타입 변환 2](./ch04/ex04.05/ex04.05.go)
 + [변수의 범위](./ch04/ex04.06/ex04.06.go)
 + [실수의 표현](./ch04/ex04.07/ex04.07.go)
-+ [Summary](./ch04/README.md)
-+ [Quiz](./ch04/quiz/README.md)
++ [Summary](./ch04#readme)
++ [Quiz](./ch04/quiz#readme)
 
 </details>
 
@@ -53,8 +53,8 @@
 + [Scanf()](./ch05/ex05.06/ex05.06.go)
 + [Scanln()](./ch05/ex05.07/ex05.07.go)
 + [키보드 입력과 Scan() 함수의 동작 원리](./ch05/ex05.08/ex05.08.go)
-+ [Summary](./ch05/README.md)
-+ [Quiz](./ch05/quiz/README.md)
++ [Summary](./ch05#readme)
++ [Quiz](./ch05/quiz#readme)
 
 </details>
 
@@ -72,8 +72,8 @@
 + [정밀도를 직접 조정하는 방법](./ch06/ex06.09/ex06.09.go)
 + [복수 대입 연산자](./ch06/ex06.10/ex06.10.go)
 + [연산자 우선순위](./ch06/ex06.11/ex06.11.go)
-+ [Summary](./ch06/README.md)
-+ [Quiz](./ch06/quiz/README.md)
++ [Summary](./ch06#readme)
++ [Quiz](./ch06/quiz#readme)
 
 </details>
 
@@ -86,8 +86,8 @@
 + [멀티 반환 함수](./ch07/ex07.04/ex07.04.go)
 + [변수명을 지정해 반환하기](./ch07/ex07.05/ex07.05.go)
 + [재귀 호출](./ch07/ex07.06/ex07.06.go)
-+ [Summary](./ch07/README.md)
-+ [Quiz](./ch07/quiz/README.md)
++ [Summary](./ch07#readme)
++ [Quiz](./ch07/quiz#readme)
 
 </details>
 
@@ -98,8 +98,8 @@
 + [변하면 안 되는 값에 상수 사용하기](./ch08/ex08.02/ex08.02.go)
 + [코드값으로 사용하기](./ch08/ex08.03/ex08.03.go)
 + [타입 없는 상수](./ch08/ex08.04/ex08.04.go)
-+ [Summary](./ch08/README.md)
-+ [Quiz](./ch08/quiz/README.md)
++ [Summary](./ch08#readme)
++ [Quiz](./ch08/quiz#readme)
 
 </details>
 
@@ -112,8 +112,8 @@
 + [쇼트서킷](./ch09/ex09.04/ex09.04.go)
 + [중첩 if](./ch09/ex09.05/ex09.05.go)
 + [if 초기문; 조건문](./ch09/ex09.06/ex09.06.go)
-+ [Summary](./ch09/README.md)
-+ [Quiz](./ch09/quiz/README.md)
++ [Summary](./ch09#readme)
++ [Quiz](./ch09/quiz#readme)
 
 </details>
 
@@ -130,8 +130,8 @@
 + [const 열거값과 switch](./ch10/ex10.08/ex10.08.go)
 + [break 키워드](./ch10/ex10.09/ex10.09.go)
 + [fallthrough 키워드](./ch10/ex10.10/ex10.10.go)
-+ [Summary](./ch10/README.md)
-+ [Quiz](./ch10/quiz/README.md)
++ [Summary](./ch10#readme)
++ [Quiz](./ch10/quiz#readme)
 
 </details>
 
@@ -147,8 +147,8 @@
 + [중첩 for문과 break](./ch11/ex11.07/ex11.07.go)
 + [중첩 for문과 break, label](./ch11/ex11.08/ex11.08.go)
 + [중첩 for문과 break - clean](./ch11/ex11.09/ex11.09.go)
-+ [Summary](./ch11/README.md)
-+ [Quiz](./ch11/quiz/README.md)
++ [Summary](./ch11#readme)
++ [Quiz](./ch11/quiz#readme)
 
 </details>
 
@@ -161,8 +161,8 @@
 + [range 순회](./ch12/ex12.04/ex12.04.go)
 + [배열 복사](./ch12/ex12.05/ex12.05.go)
 + [다중 배열](./ch12/ex12.06/ex12.06.go)
-+ [Summary](./ch12/README.md)
-+ [Quiz](./ch12/quiz/README.md)
++ [Summary](./ch12#readme)
++ [Quiz](./ch12/quiz#readme)
 
 </details>
 
@@ -177,8 +177,8 @@
 + [필드 배치 순서에 따른 구조체 크기 변화](./ch13/ex13.06/ex13.06.go)
 + [메모리 패딩을 고려한 필드 배치 방법](./ch13/ex13.07/ex13.07.go)
 + [메모리 패딩을 고려한 필드 배치 방법 - 조정](./ch13/ex13.08/ex13.08.go)
-+ [Summary](./ch13/README.md)
-+ [Quiz](./ch13/quiz/README.md)
++ [Summary](./ch13#readme)
++ [Quiz](./ch13/quiz#readme)
 
 </details>
 
@@ -190,8 +190,8 @@
 + [포인터를 왜 쓰나? - 변경X](./ch14/ex14.03/ex14.03.go)
 + [포인터를 왜 쓰나? - 변경O](./ch14/ex14.04/ex14.04.go)
 + [스택 메모리와 힙 메모리](./ch14/ex14.05/ex14.05.go)
-+ [Summary](./ch14/README.md)
-+ [Quiz](./ch14/quiz/README.md)
++ [Summary](./ch14#readme)
++ [Quiz](./ch14/quiz#readme)
 
 </details>
 
