@@ -135,7 +135,7 @@
 
 </details>
 
-<details>
+<details> 
 <summary>Chapter 11 - for문</summary>
 
 + [for문 동작 원리](./ch11/ex11.01/ex11.01.go)
@@ -149,6 +149,20 @@
 + [중첩 for문과 break - clean](./ch11/ex11.09/ex11.09.go)
 + [Summary](./ch11/README.md)
 + [Quiz](./ch11/quiz/README.md)
+
+</details>
+
+<details>
+<summary>Chapter 12 - 배열</summary>
+
++ [배열](./ch12/ex12.01/ex12.01.go)
++ [배열 선언 시 개수는 항상 상수](./ch12/ex12.02/ex12.02.go)
++ [배열 요소 읽고 쓰기](./ch12/ex12.03/ex12.03.go)
++ [range 순회](./ch12/ex12.04/ex12.04.go)
++ [배열 복사](./ch12/ex12.05/ex12.05.go)
++ [다중 배열](./ch12/ex12.06/ex12.06.go)
++ [Summary](./ch12/README.md)
++ [Quiz](./ch12/quiz/README.md)
 
 </details>
 
