@@ -232,6 +232,17 @@
 
 </details>
 
+<details>
+<summary>Chapter 17 - 숫자 맞추기 게임 만들기</summary>
+
++ [랜덤한 숫자 생성하기](./ch17/ex17.01/ex17.01.go)
++ [숫자값 입력받기](./ch17/ex17.02/ex17.02.go)
++ [숫자 맞추기 완성하기](./ch17/ex17.03/ex17.03.go)
++ [Summary](./ch17#readme)
++ [Quiz](./ch17/quiz#readme)
+
+</details>
+
 ---
 
 ## Reference
