@@ -221,6 +221,17 @@
 
 </details>
 
+<details>
+<summary>Chapter 16 - 패키지</summary>
+
++ [경로가 있는 패키지 사용하기](./ch16/ex16.01/ex16.01.go)
++ [패키지명과 패키지 외부 공개](./ch16/ex16.02/ex16.02.go)
++ [패키지 초기화](./ch16/ex16.03/ex16.03.go)
++ [Summary](./ch16#readme)
++ [Quiz](./ch16/quiz#readme)
+
+</details>
+
 ---
 
 ## Reference
