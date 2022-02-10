@@ -259,6 +259,14 @@
 
 </details>
 
+<details>
+<summary>Chapter 19 - 메서드</summary>
+
++ [메서드 선언](./ch19/ex19.01/ex19.01.go)
++ [포인트 메서드 vs 값 타입 메서드](./ch19/ex19.02/ex19.02.go)
++ [Summary](./ch19#readme)
+
+</details>
 
 ---
 
