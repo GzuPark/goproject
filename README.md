@@ -280,6 +280,18 @@
 
 </details>
 
+<details>
+<summary>Chapter 21 - 함수 고급편</summary>
+
++ [가변 인수 함수 - ... 키워드 사용](./ch21/ex21.01/ex21.01.go)
++ [defer 지연 실행](./ch21/ex21.02/ex21.02.go)
++ [함수 타입 변수](./ch21/ex21.03/ex21.03.go)
++ [함수 리터럴(Lambda)](./ch21/ex21.04/ex21.04.go)
++ [의존성 주입](./ch21/ex21.05/ex21.05.go)
++ [Summary](./ch21#readme)
+
+</details>
+
 ---
 
 ## Reference
