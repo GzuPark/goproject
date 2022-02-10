@@ -305,6 +305,17 @@
 
 </details>
 
+<details>
+<summary>Chapter 23 - 에러 핸들링</summary>
+
++ [에러 반환](./ch23/ex23.01/ex23.01.go)
++ [에러 타입](./ch23/ex23.02/ex23.02.go)
++ [에러 래핑](./ch23/ex23.03/ex23.03.go)
++ [패닉 전파 그리고 복구](./ch23/ex23.04/ex23.04.go)
++ [Summary](./ch23#readme)
+
+</details>
+
 ---
 
 ## Reference
