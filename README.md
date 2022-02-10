@@ -268,6 +268,18 @@
 
 </details>
 
+<details>
+<summary>Chapter 20 - 인터페이스</summary>
+
++ [인터페이스 선언](./ch20/ex20.01/ex20.01.go)
++ [인터페이스 왜 쓰나](./ch20/ex20.02/ex20.02.go)
++ [빈 인터페이스 interface{}를 인수로 받기](./ch20/ex20.03/ex20.03.go)
++ [구체화된 다른 타입으로 타입 변환하기](./ch20/ex20.04/ex20.04.go)
++ [다른 인터페이스로 타입 변환하기](./ch20/ex20.05/ex20.05.go)
++ [Summary](./ch20#readme)
+
+</details>
+
 ---
 
 ## Reference
