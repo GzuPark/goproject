@@ -244,6 +244,7 @@
 </details>
 
 ## 2 단계 - 고급 기법으로 Go 레벨업하기
+
 <details>
 <summary>Chapter 18 - 슬라이스</summary>
 
@@ -353,8 +354,18 @@
 
 </details>
 
+## 3 단계 - Go 프로그래밍에 유용한 기법 익히기
+
+<details>
+<summary>Chapter 27 - 객체지향 설계 원칙 SOLID</summary>
+
++ [Summary](./ch27#readme)
+
+</details>
+
 ---
 
 ## Reference
+
 - [GitHub](https://github.com/tuckersGo/musthaveGo)
 - [YouTube](https://www.youtube.com/c/TuckerProgramming)
