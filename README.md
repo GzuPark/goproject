@@ -316,6 +316,18 @@
 
 </details>
 
+<details>
+<summary>Chapter 24 - 고루틴과 동시성 프로그래밍</summary>
+
++ [고루틴 사용](./ch24/ex24.01/ex24.01.go)
++ [서브 고루틴이 종료될 때까지 기다리기](./ch24/ex24.02/ex24.02.go)
++ [뮤텍스를 이용한 동시성 문제 해결](./ch24/ex24.03/ex24.03.go)
++ [뮤텍스와 데드락](./ch24/ex24.04/ex24.04.go)
++ [영역을 나누는 자원 관리 기법](./ch24/ex24.05/ex24.05.go)
++ [Summary](./ch24#readme)
+
+</details>
+
 ---
 
 ## Reference
