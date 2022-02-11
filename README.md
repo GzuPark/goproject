@@ -363,6 +363,16 @@
 
 </details>
 
+<details>
+<summary>Chapter 28 - 테스트와 벤치마크</summary>
+
++ [테스트 코드 작성하기](./ch28/ex28.01/ex28.01_test.go)
++ [테스트를 돕는 외부 패키지](./ch28/ex28.02/ex28.02_test.go)
++ [벤치마크](./ch28/ex28.03/ex28.03_test.go)
++ [Summary](./ch28#readme)
+
+</details>
+
 ---
 
 ## Reference
