@@ -342,6 +342,17 @@
 
 </details>
 
+<details>
+<summary>Chapter 26 - 단어 갬색 프로그램 만들기</summary>
+
++ [실행 인수 읽고 파일 목록 가져오기](./ch26/ex26.01/ex26.01.go)
++ [파일을 열어서 라인 읽기](./ch26/ex26.02/ex26.02.go)
++ [파일 검색 프로그램 완성하기](./ch26/ex26.03/ex26.03.go)
++ [개선하기](./ch26/ex26.04/ex26.04.go)
++ [Summary](./ch26#readme)
+
+</details>
+
 ---
 
 ## Reference
