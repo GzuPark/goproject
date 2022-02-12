@@ -387,6 +387,16 @@
 
 </details>
 
+<details>
+<summary>Chapter 30 - RESTful API 서버 만들기</summary>
+
++ [RESTful API 서버 만들기](./ch30/ex30.01/ex30.01.go)
++ [특정 학생 데이터 반환하기](./ch30/ex30.02/ex30.02.go)
++ [학생 데이터 추가/삭제하기](./ch30/ex30.03/ex30.03.go)
++ [Summary](./ch30#readme)
+
+</details>
+
 ---
 
 ## Reference
