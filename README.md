@@ -398,7 +398,7 @@
 </details>
 
 <details>
-<summary>`Chapter 31 - Todo 리스트 웹 사이트 만들기`</summary>
+<summary>Chapter 31 - Todo 리스트 웹 사이트 만들기</summary>
 
 + [웹 서버 만들기](./ch30/ex31.01/ex31.01.go)
 + [Summary](./ch31#readme)
